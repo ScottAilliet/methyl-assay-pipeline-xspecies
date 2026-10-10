@@ -1,0 +1,24 @@
+# GSE191211 (Loyfer-era mouse brain atlas WGBS, WT replicates only; KO reps excluded).
+# One comparison block per cell type: role=target marks the cell type's own
+# replicates; role=background marks every other cell type's replicates.
+# group = comparison name; discovered cell_type_id = {group}_{direction}.
+# Download: files named {GSM}_WGBS_{celltype}_WT_rep{n}.cov.gz (Bismark-style cov).
+sample_id	path	group	role
+GSM5741674	GSM5741674_WGBS_GABAergic_WT_rep1.cov.gz	GABAergic	target
+GSM5741675	GSM5741675_WGBS_GABAergic_WT_rep2.cov.gz	GABAergic	target
+GSM5741678	GSM5741678_WGBS_Glutamatergic_WT_rep1.cov.gz	GABAergic	background
+GSM5741679	GSM5741679_WGBS_Glutamatergic_WT_rep2.cov.gz	GABAergic	background
+GSM5741680	GSM5741680_WGBS_Purkinje_WT_rep1.cov.gz	GABAergic	background
+GSM5741681	GSM5741681_WGBS_Purkinje_WT_rep2.cov.gz	GABAergic	background
+GSM5741674	GSM5741674_WGBS_GABAergic_WT_rep1.cov.gz	Glutamatergic	background
+GSM5741675	GSM5741675_WGBS_GABAergic_WT_rep2.cov.gz	Glutamatergic	background
+GSM5741678	GSM5741678_WGBS_Glutamatergic_WT_rep1.cov.gz	Glutamatergic	target
+GSM5741679	GSM5741679_WGBS_Glutamatergic_WT_rep2.cov.gz	Glutamatergic	target
+GSM5741680	GSM5741680_WGBS_Purkinje_WT_rep1.cov.gz	Glutamatergic	background
+GSM5741681	GSM5741681_WGBS_Purkinje_WT_rep2.cov.gz	Glutamatergic	background
+GSM5741674	GSM5741674_WGBS_GABAergic_WT_rep1.cov.gz	Purkinje	background
+GSM5741675	GSM5741675_WGBS_GABAergic_WT_rep2.cov.gz	Purkinje	background
+GSM5741678	GSM5741678_WGBS_Glutamatergic_WT_rep1.cov.gz	Purkinje	background
+GSM5741679	GSM5741679_WGBS_Glutamatergic_WT_rep2.cov.gz	Purkinje	background
+GSM5741680	GSM5741680_WGBS_Purkinje_WT_rep1.cov.gz	Purkinje	target
+GSM5741681	GSM5741681_WGBS_Purkinje_WT_rep2.cov.gz	Purkinje	target

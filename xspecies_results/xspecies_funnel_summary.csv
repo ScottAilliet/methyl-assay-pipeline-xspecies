@@ -1,0 +1,8 @@
+organism,cell_type,candidate_cytosines,dmr_blocks,primer_pairs,ePCR_pass
+mouse,GABAergic_hyper,8,2,0,0
+mouse,Glutamatergic_hyper,17,4,6,1
+mouse,Glutamatergic_hypo,450,90,27,14
+mouse,Purkinje_hyper,49,9,0,0
+mouse,Purkinje_hypo,588,112,52,33
+arabidopsis,Columella_hyper,1083,200,8,2
+zebrafish,PGC_4h_hypo,584,130,255,6

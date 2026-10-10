@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="572.4pt" height="431.900937pt" viewBox="0 0 572.4 431.900937" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-01-01T05:00:00+00:00</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.5, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 431.900937 
+L 572.4 431.900937 
+L 572.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 159.381818 92.955131 
+L 251.427273 92.955131 
+L 251.427273 55.399002 
+L 159.381818 55.399002 
+z
+" clip-path="url(#pe0d0d0d646)" style="fill: #ece9e2; opacity: 0.85; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 159.381818 155.548679 
+L 250.453247 155.548679 
+L 250.453247 117.99255 
+L 159.381818 117.99255 
+z
+" clip-path="url(#pe0d0d0d646)" style="fill: #e9ed4c; opacity: 0.85; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 159.381818 218.142228 
+L 521.719481 218.142228 
+L 521.719481 180.586099 
+L 159.381818 180.586099 
+z
+" clip-path="url(#pe0d0d0d646)" style="fill: #75a025; opacity: 0.85; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 159.381818 280.735776 
+L 288.44026 280.735776 
+L 288.44026 243.179647 
+L 159.381818 243.179647 
+z
+" clip-path="url(#pe0d0d0d646)" style="fill: #0279ee; opacity: 0.85; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 159.381818 343.329325 
+L 250.453247 343.329325 
+L 250.453247 305.773196 
+L 159.381818 305.773196 
+z
+" clip-path="url(#pe0d0d0d646)" style="fill: #ff9400; opacity: 0.85; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 159.381818 405.922873 
+L 213.44026 405.922873 
+L 213.44026 368.366744 
+L 159.381818 368.366744 
+z
+" clip-path="url(#pe0d0d0d646)" style="fill: #fd9bed; opacity: 0.85; stroke: #000000; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: start" x="255.775325" y="77.021598" transform="rotate(-0 255.775325 77.021598)">189</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(47.105377 71.377379)">DMR blocks discovered</text>
+    <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(10.96319 82.148629)">(Loyfer atlas, 7 blood cell types)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: start" x="254.801299" y="139.615146" transform="rotate(-0 254.801299 139.615146)">187</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(39.87569 133.970927)">Blocks producing primers</text>
+    <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(64.867877 144.742177)">(cleanliness &gt;= 0.6)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: start" x="526.067532" y="202.208695" transform="rotate(-0 526.067532 202.208695)">744</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(54.87569 196.564476)">Primer pairs designed</text>
+    <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(53.22569 207.335726)">(Primer3, 4 templates)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: start" x="292.788312" y="264.802243" transform="rotate(-0 292.788312 264.802243)">265</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(73.21319 259.158024)">Bowtie2 pair-level</text>
+    <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(84.891315 269.929274)">specificity pass</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: start" x="254.801299" y="327.395791" transform="rotate(-0 254.801299 327.395791)">187</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(88.241315 321.751573)">Best-per-DMR</text>
+    <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(81.549127 332.522823)">(unique assays)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: start" x="217.788312" y="389.98934" transform="rotate(-0 217.788312 389.98934)">111</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(53.75694 384.345121)">Final validated assays</text>
+    <text style="font-size: 10px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'" transform="translate(24.330377 395.116371)">(best-per-DMR, bowtie pass)</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 13px; font-family: 'Liberation Sans', 'Arimo', 'DejaVu Sans'; text-anchor: middle" x="286.2" y="16.620937" transform="rotate(-0 286.2 16.620937)">Pipeline Filter Funnel: From DMR Discovery to Validated Assays</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe0d0d0d646">
+   <rect x="7.2" y="36.620937" width="558" height="388.08"/>
+  </clipPath>
+ </defs>
+</svg>

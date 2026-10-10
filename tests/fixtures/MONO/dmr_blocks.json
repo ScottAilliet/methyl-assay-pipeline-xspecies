@@ -1,0 +1,51 @@
+[
+  {
+    "seq_id": "MONO_chr12_123400_hypo_1",
+    "cell_type": "MONO",
+    "chrom": "chr12",
+    "dmr_start": 123400,
+    "dmr_end": 123600,
+    "block_len": 200,
+    "direction": "hypo",
+    "num_cpgs": 5,
+    "delta_means": 0.45,
+    "dms_score": 0.72,
+    "cleanliness_score": 0.72,
+    "target_mean_meth": 0.88,
+    "background_mean_meth": 0.12,
+    "gene": "CDK4",
+    "annotation": "promoter",
+    "rank": 1,
+    "cpg_sites": [
+      {"label": "CpG_1", "position": 123420, "target_mean_beta": 0.90, "background_mean_beta": 0.08},
+      {"label": "CpG_2", "position": 123450, "target_mean_beta": 0.85, "background_mean_beta": 0.15},
+      {"label": "CpG_3", "position": 123480, "target_mean_beta": 0.92, "background_mean_beta": 0.10},
+      {"label": "CpG_4", "position": 123520, "target_mean_beta": 0.88, "background_mean_beta": 0.12},
+      {"label": "CpG_5", "position": 123560, "target_mean_beta": 0.87, "background_mean_beta": 0.14}
+    ]
+  },
+  {
+    "seq_id": "MONO_chr17_654300_hypo_2",
+    "cell_type": "MONO",
+    "chrom": "chr17",
+    "dmr_start": 654300,
+    "dmr_end": 654500,
+    "block_len": 200,
+    "direction": "hypo",
+    "num_cpgs": 4,
+    "delta_means": 0.38,
+    "dms_score": 0.65,
+    "cleanliness_score": 0.65,
+    "target_mean_meth": 0.82,
+    "background_mean_meth": 0.18,
+    "gene": "SOX9",
+    "annotation": "gene_body",
+    "rank": 2,
+    "cpg_sites": [
+      {"label": "CpG_1", "position": 654330, "target_mean_beta": 0.85, "background_mean_beta": 0.20},
+      {"label": "CpG_2", "position": 654380, "target_mean_beta": 0.80, "background_mean_beta": 0.18},
+      {"label": "CpG_3", "position": 654420, "target_mean_beta": 0.83, "background_mean_beta": 0.15},
+      {"label": "CpG_4", "position": 654460, "target_mean_beta": 0.81, "background_mean_beta": 0.22}
+    ]
+  }
+]

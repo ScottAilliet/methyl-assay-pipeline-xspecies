@@ -1,0 +1,24 @@
+# Cell-Specific Epigenetic dPCR Assay Design Pipeline — Python Dependencies
+# Install with: pip install -r requirements.txt
+# (or use install_macos.sh which also installs system dependencies)
+
+# Core pipeline
+primer3-py==2.3.0
+openpyxl>=3.1.0
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0          # required by wgbstools find_markers (step 0 only)
+pyarrow>=14.0.0        # parquet I/O for master assay tables
+
+# Output generation
+reportlab>=4.0.0
+matplotlib>=3.8.0
+Pillow>=10.0.0
+
+# System dependencies (NOT pip-installable — install via brew/apt):
+#   samtools >= 1.17
+#   htslib   >= 1.17  (provides tabix, bgzip)
+#   bedtools >= 2.30.0
+#
+# macOS:  brew install samtools htslib bedtools
+# Ubuntu: apt install samtools tabix bedtools

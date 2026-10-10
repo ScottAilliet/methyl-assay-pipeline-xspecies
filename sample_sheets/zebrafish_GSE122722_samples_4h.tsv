@@ -1,0 +1,15 @@
+# GSE122722 zebrafish embryo WGBS, PGC vs Soma per stage.
+# Score-only per-CpG methylation bigWigs:
+#   {GSM}_Zebrafish-{PGC|Soma}-{4h|7h|24h|36h}-WGBS_rep{n}_UCSC_danRer10_merged_sorted_dedup_genotype.mapq30.meth.score.bw
+# GSM3484056-59 = PGC rep1 4h/7h/24h/36h; GSM3484060-63 = PGC rep2;
+# GSM3484064-67 = Soma rep1; GSM3484068-71 = Soma rep2 (verify against GEO).
+# One comparison block per direction of interest; group = comparison name.
+sample_id	path	group	role
+PGC_4h_rep1	GSM3484056_Zebrafish-PGC-4h-WGBS_rep1_UCSC_danRer10_merged_sorted_dedup_genotype.mapq30.meth.score.bw	PGC	target
+PGC_4h_rep2	GSM3484060_Zebrafish-PGC-4h-WGBS_rep2_UCSC_danRer10_merged_sorted_dedup_genotype.mapq30.meth.score.bw	PGC	target
+Soma_4h_rep1	GSM3484064_Zebrafish-Soma-4h-WGBS_rep1_UCSC_danRer10_merged_sorted_dedup_genotype.mapq30.meth.score.bw	PGC	background
+Soma_4h_rep2	GSM3484068_Zebrafish-Soma-4h-WGBS_rep2_UCSC_danRer10_merged_sorted_dedup_genotype.mapq30.meth.score.bw	PGC	background
+PGC_4h_rep1	GSM3484056_Zebrafish-PGC-4h-WGBS_rep1_UCSC_danRer10_merged_sorted_dedup_genotype.mapq30.meth.score.bw	Soma	background
+PGC_4h_rep2	GSM3484060_Zebrafish-PGC-4h-WGBS_rep2_UCSC_danRer10_merged_sorted_dedup_genotype.mapq30.meth.score.bw	Soma	background
+Soma_4h_rep1	GSM3484064_Zebrafish-Soma-4h-WGBS_rep1_UCSC_danRer10_merged_sorted_dedup_genotype.mapq30.meth.score.bw	Soma	target
+Soma_4h_rep2	GSM3484068_Zebrafish-Soma-4h-WGBS_rep2_UCSC_danRer10_merged_sorted_dedup_genotype.mapq30.meth.score.bw	Soma	target

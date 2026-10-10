@@ -1,0 +1,38 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Reference data (downloaded by download_data.sh, see docs/data_setup.md)
+data/beta_files/
+data/hg19/
+data/dbsnp/
+data/GSE186458_blocks.s205.bed.gz*
+
+# Large data files (not tracked — see docs/data_setup.md for download instructions)
+data/*.xlsx
+
+# Pipeline output
+results/
+test_run/
+test_dmr/
+test_stress/
+
+# Binary/index files
+*.bed
+*.bed.gz
+*.bed.gz.tbi
+*.beta
+*.bam
+*.bai
+*.bt2
+*.fai
+*.gzi
+*.npy
+.DS_Store
+wgbs_tools/
